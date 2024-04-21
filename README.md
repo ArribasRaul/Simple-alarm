@@ -33,6 +33,3 @@ This project implements a simple alarm system using an ATtiny85 microcontroller,
 ## Additional Notes
 - Ensure correct electrical connections to avoid damage.
 - Customize the project by adding SMS/email notifications or other features.
-
-## License
-These projects are open-source and available under the [MIT License](LICENSE).
